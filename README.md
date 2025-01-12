@@ -1,6 +1,6 @@
-# Cat & Dog Detection Web App using Flask & VGG16
+# Cat & Dog Detection Using VGG16
 
-This project is a **Cat & Dog detection** the **VGG16** pre-trained model. The web app allows users to upload images and instantly classify whether the image contains a cat or a dog.
+This project is a **Cat & Dog detection** the **VGG16** pre-trained model. It allows users to upload images and instantly classify whether the image contains a cat or a dog.
 
 ## Features
 
